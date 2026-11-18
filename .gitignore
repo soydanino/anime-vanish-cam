@@ -1,0 +1,15 @@
+# Entorno y archivos generados
+.venv/
+__pycache__/
+*.pyc
+debug/
+.DS_Store
+
+# Repositorio de referencia clonado (no es parte de este proyecto)
+referencia/
+
+# Sonidos con derechos de autor: no se publican (ver README → Sonido)
+assets/*.mp3
+assets/*.MP3
+assets/*.wav
+assets/*.m4a
